@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/christianrfg">
+  <a href="https://github.com/ChristianDeoManlangit">
     <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChristianDeoManlangit&theme=react">
     <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChristianDeoManlangit&theme=react">
   </a>
