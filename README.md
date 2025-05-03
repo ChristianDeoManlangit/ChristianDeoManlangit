@@ -109,13 +109,13 @@ Outside coding, I’m deeply into **graphic design** — from social media conte
       <a href="https://github.com/ChristianDeoManlangit/Chai-s-Graphic-Design-Portfolio" target="_blank">
         <img src="https://raw.githubusercontent.com/ChristianDeoManlangit/ImageSources/refs/heads/main/%F0%9F%93%B7%20Media%20Assets/Main%20(dark).png" width="400">
       </a><br>
-      <em>HTML │ Tailwind CSS │ Vanilla JS</em>
+      <em>HTML │ CSS │ Vanilla JS</em>
     </td>
     <td align="center">
       <a href="https://github.com/ChristianDeoManlangit/ThinkPlus-Ecommerce-Site" target="_blank">
         <img src="https://raw.githubusercontent.com/ChristianDeoManlangit/ThinkPlus-Ecommerce-Site/refs/heads/main/attached_assets/Desktop%20Mode/Dark%20Mode/2.png" width="400">
       </a><br>
-      <em>HTML │ Tailwind CSS │ Vanilla JS</em>
+      <em>HTML │ CSS │ Vanilla JS</em>
     </td>
   </tr>
   <tr>
